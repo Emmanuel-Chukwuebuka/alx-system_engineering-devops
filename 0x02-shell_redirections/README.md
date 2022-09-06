@@ -1,1 +1,1 @@
-duplicates
+Letters only please
