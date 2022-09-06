@@ -1,1 +1,1 @@
-Let display a file
+display 10 lines
