@@ -1,1 +1,1 @@
-multiplication
+binary to decimal
