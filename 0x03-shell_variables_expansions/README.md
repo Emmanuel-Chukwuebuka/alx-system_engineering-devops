@@ -1,1 +1,1 @@
-division
+multiplication
