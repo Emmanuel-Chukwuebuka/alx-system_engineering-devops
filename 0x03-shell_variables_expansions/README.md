@@ -1,1 +1,1 @@
-global environment
+new environment
